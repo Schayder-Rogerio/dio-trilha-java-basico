@@ -1,18 +1,26 @@
-## Getting Started
+# Gerenciador de Contas Bancárias
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido como parte do curso DIO e tem como objetivo criar um sistemade aonde ira imprimir os dados de uma conta bancaria inseriada pelo usuario ataves do scanner da linguagem java.
 
-## Folder Structure
+## Funcionalidade
 
-The workspace contains two folders by default, where:
+* Inserção do numero da Contas.
+* Inserção da Agencia .
+* Inserção do nome do usuario.
+* Inserção saldo.
+* Exibição dos dados cadatrados de forma clara.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como usar 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* Clone esse repositorio em sua maquiona local.
+* Execute o codigo atraves do Terminal usando os seguinte comando(Java ContaTerminal).
+* Insera as informações solicitadas.
+* O programa imprimira os dados inseridos no final.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Tecnologia Usadas
 
-## Dependency Management
+* *JAVA:* linguagemde programação utilizada para o desenvolvimento do projeto.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Desafio 
+
+[DIO - Trilha Java Básico](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
